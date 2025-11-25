@@ -1,3 +1,4 @@
+<img width="1863" height="1863" alt="Purple minimalist Tech Company Logo" src="https://github.com/user-attachments/assets/3bc2418c-8cdd-41f8-9d56-a9533d51f5f7"/>
 
 This is a project by ChillHack, focusing on developing WormGPT prompt hacking. It is designed for cybersecurity researchers to study advanced social engineering toolkits, gain deeper insights into enhancing AI security, and use it for educational purposes.
 
@@ -13,3 +14,5 @@ Contact Us
 Email: info@chillhack.net
 
 Website: https://chillhack.net/
+<img width="1863" height="1863" alt="Purple minimalist Tech Company Logo" src="https://github.com/user-attachments/assets/3bc2418c-8cdd-41f8-9d56-a9533d51f5f7"/>
+
